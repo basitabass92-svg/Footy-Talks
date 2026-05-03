@@ -1,5 +1,4 @@
 # Footy-Talks
-My football news website 
 <!DOCTYPE html><html lang="en">
 <head>
 <meta charset="UTF-8">
